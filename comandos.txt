@@ -1,0 +1,5 @@
+1. Cuando inicaiamos un proyecto nuevo ejecutamos el siguiente comando : git init
+
+2. agregar cambios al área de preparación git add .  ( archivos dentro de la ruta)
+
+3. 

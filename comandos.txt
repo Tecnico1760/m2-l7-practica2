@@ -2,4 +2,15 @@
 
 2. agregar cambios al área de preparación git add .  ( archivos dentro de la ruta)
 
-3. 
+3. versionar el proyecto local 
+git commit -m " mensaje descriptivo"
+
+4. crear nuevo proyecto a repositorio en github , seguir instrucciones de comando 
+5 agregar el repositorio remoto de github al repositorio local( enlazar) git remote add origin https://github.com/Tecnico1760/m2-l7-practica2.git
+
+6
+git branch -m main
+
+7. subir los cambios locales al repositorio git push -u origin main
+
+
